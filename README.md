@@ -9,3 +9,5 @@ Drive-By Attack.
 A drive-by attack, or drive-by download attack, is a type of cyberattack where a malicious script prompts a program to download and install itself on a user’s device without their explicit consent.
 
 This can occur on any device and operating system. Typically, these attacks happen when a user visits and interacts with a compromised web page.
+
+(How a Drive-By-Download Works.jpg)
